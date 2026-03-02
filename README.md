@@ -5,14 +5,14 @@
 
 <h1>👨‍🎓 About Me</h1>
 <p>
-🎓 Computer Science Student at <h2>University of AJK, Pakistan</h2><br> 
-📊 Passionate about <h2>Data Science, Artificial Intelligence, Machine Learning & Deep Learning</h2>
+🎓 Computer Science Student at: <h2>University of AJK, Pakistan</h2><br> 
+📊 Passionate about: <h2>Data Science, Artificial Intelligence, Machine Learning & Deep Learning</h2>
   <br>
-💻 Strong command in <h2>Python, C, C++, HTML, CSS, JavaScript</h2><br>
+💻 Strong command in: <h2>Python, C, C++, HTML, CSS, JavaScript</h2><br>
   
-🧠 Currently building projects in <h2>Data Structures & Algorithms, AI Models & Data Science</h2><br>
-🎨 Skilled in <h2>Graphic Designing (Photoshop & Illustrator)</h2><br>
-🎯 Goal: Become a <h2>Professional Data Scientist & AI Engineer</h2>
+🧠 Currently building projects in: <h2>Data Structures & Algorithms, AI Models & Data Science</h2><br>
+🎨 Also skilled in: <h2>Graphic Designing (Photoshop & Illustrator)</h2><br>
+🎯 Goal:<h2>Professional Data Scientist & AI Engineer</h2>
 </p>
 <h1>🌐 Connect With Me</h1>
 
