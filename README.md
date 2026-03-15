@@ -2,7 +2,7 @@
 # Hi there, I'm Muhammad Haroon 👋
 
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=aliraza5101&label=Profile%20views&color=0e75b6&style=flat" alt="aliraza5101" />
+  <img src="https://komarev.com/ghpvc/?username=mharoon1434&label=Profile%20views&color=0e75b6&style=flat" alt="aliraza5101" />
 </p>
 
 - 🔭 I’m currently working on <b>Full Stack Web Development</b>
@@ -39,11 +39,11 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=mharoon1434&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=haroon1434&layout=compact&theme=radical" alt="Top Langs" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mharoon1434&layout=compact&theme=radical" alt="Top Langs" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=haroon1434&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mharoon1434&theme=radical" alt="GitHub Streak" />
 </p>
 
 
