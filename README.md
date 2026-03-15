@@ -2,7 +2,7 @@
 # Hi there, I'm Muhammad Haroon 👋
 
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=mharoon1434&label=Profile%20views&color=0e75b6&style=flat" alt="aliraza5101" />
+  <img src="https://komarev.com/ghpvc/?username=mharoon1434&label=Profile%20views&color=0e75b6&style=flat" alt="mharoon1434" />
 </p>
 
 - 🔭 I’m currently working on <b>Full Stack Web Development</b>
