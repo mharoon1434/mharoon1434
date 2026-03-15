@@ -10,8 +10,7 @@
 - 👯 I’m looking to collaborate on <b> Open Source Projects</b>
 - 💬 Ask me about <b>MERN Stack, C++, or Python</b>
 - 📫 How to reach me: m.haroon.4550@gmail.com
-
----
+</p>
 
 ### 🛠 Languages and Tools:
 
@@ -39,12 +38,12 @@
 ### 📊 GitHub Stats:
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aliraza5101&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aliraza5101&layout=compact&theme=radical" alt="Top Langs" />
+  <img src="https://github-readme-stats.vercel.app/api?username=mharoon1434&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=haroon1434&layout=compact&theme=radical" alt="Top Langs" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aliraza5101&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=haroon1434&theme=radical" alt="GitHub Streak" />
 </p>
 
 
