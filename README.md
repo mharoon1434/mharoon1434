@@ -1,63 +1,50 @@
-<h1>Hi 👋, I'm Muhammad Haroon</h1>
-<h3">Computer Science Student | Future Data Scientist | AI & Python Developer</h3>
 
-
-
-
-<h1>🌐 Connect With Me</h1>
+# Hi there, I'm Muhammad Haroon 👋
 
 <p align="left">
-<a href="https://linkedin.com/in/your-link" target="blank">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
+  <img src="https://komarev.com/ghpvc/?username=aliraza5101&label=Profile%20views&color=0e75b6&style=flat" alt="aliraza5101" />
+</p>
 
-<a href="https://github.com/mharoon1434" target="blamnk">
-<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
+- 🔭 I’m currently working on <b>Full Stack Web Development</b>
+- 🌱 I’m currently learning <b>Python and AI and Advanced Backend Systems</b>
+- 👯 I’m looking to collaborate on <b> Open Source Projects</b>
+- 💬 Ask me about <b>MERN Stack, C++, or Python</b>
+- 📫 How to reach me: m.haroon.4550@gmail.com
 
-<a href="mailto:your-email@gmail.com">
-<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
+---
+
+### 🛠 Languages and Tools:
+
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/>
+  
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
+  
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
+  
+  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-plain.svg" alt="vscode" width="40" height="40"/>
 </p>
 
 ---
 
-## 🛠️ Tech Stack
-
-### 👨‍💻 Programming Languages
-<p>
-<img src="https://skillicons.dev/icons?i=python,cpp,c,java,js" />
-</p>
-
-### 🌐 Web Development
-<p>
-<img src="https://skillicons.dev/icons?i=html,css,bootstrap,react" />
-</p>
-
-### 📊 Data Science & AI
-<p>
-<img src="https://skillicons.dev/icons?i=tensorflow" />
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
-</p>
-
-### 🎨 Design Tools
-<p>
-<img src="https://skillicons.dev/icons?i=photoshop,illustrator,figma" />
-</p>
-
----
-
-## 📈 GitHub Stats
+### 📊 GitHub Stats:
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=aliraza5101&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aliraza5101&layout=compact&theme=radical" alt="Top Langs" />
 </p>
 
----
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aliraza5101&theme=radical" alt="GitHub Streak" />
+</p>
 
-<h3 align="center">🚀 Always Learning | Always Building | Always Improving</h3>
-<h3 align="center">💡 Code. Learn. Build. Repeat. 💡</h3>
+
