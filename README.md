@@ -1,57 +1,48 @@
-<h1 align="center">Hi 👋, I'm Muhammad Haroon</h1>
-<h3 align="center">🚀 Full Stack Developer | MERN | Python | AI Enthusiast</h3>
+
+# Hi there, I'm Muhammad Haroon 👋
+
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=mharoon1434&label=Profile%20views&color=0e75b6&style=flat" alt="mharoon1434" />
+</p>
+
+- 🔭 I’m currently working on <b>Full Stack Web Development</b>
+- 🌱 I’m currently learning <b>Python and AI and Advanced Backend Systems</b>
+- 👯 I’m looking to collaborate on <b> Open Source Projects</b>
+- 💬 Ask me about <b>MERN Stack, C++, or Python</b>
+- 📫 How to reach me: m.haroon.4550@gmail.com
+</p>
+
+### 🛠 Languages and Tools:
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=mharoon1434&label=Profile%20views&color=0e75b6&style=flat" alt="profile views"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/>
+  
+ 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
+  
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
+
+  
+  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-plain.svg" alt="vscode" width="40" height="40"/>
 </p>
 
 ---
 
-### 👨‍💻 About Me
-
-- 🔭 Currently working on **Full Stack Web Development**
-- 🌱 Learning **Python, AI & Advanced Backend Systems**
-- 👯 Looking to collaborate on **Open Source Projects**
-- 💬 Ask me about **MERN Stack, C++, Python**
-- 📫 Reach me at: **m.haroon.4550@gmail.com**
-
----
-
-### 🌐 Connect with Me
+### 📊 GitHub Stats:
 
 <p align="center">
-  <a href="mailto:m.haroon.4550@gmail.com">
-    <img src="https://img.shields.io/badge/email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api?username=mharoon1434&show_icons=true&theme=radical&cache_seconds=1800" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mharoon1434&layout=compact&theme=radical&cache_seconds=1800" />
 </p>
-
----
-
-### 🛠️ Languages and Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,react,html,css,bootstrap,mongodb,mysql,python,cpp,git,vscode" />
+  <img src="https://streak-stats.demolab.com?user=mharoon1434&theme=radical&cache_seconds=1800" />
 </p>
 
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mharoon1434&show_icons=true&theme=radical&hide_border=true"/>
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mharoon1434&layout=compact&theme=radical&hide_border=true"/>
-</p>
-
----
-
-### 🔥 GitHub Streak
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=mharoon1434&theme=radical&hide_border=true"/>
-</p>
-
----
-
-### ⚡ Fun Fact
-💡 I love building real-world projects and exploring AI innovations!
