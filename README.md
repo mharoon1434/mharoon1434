@@ -5,11 +5,11 @@
   <img src="https://komarev.com/ghpvc/?username=mharoon1434&label=Profile%20views&color=0e75b6&style=flat" alt="mharoon1434" />
 </p>
 
-- 🔭 I’m currently working on <b>Full Stack Web Development</b>
-- 🌱 I’m currently learning <b>Python and AI and Advanced Backend Systems</b>
-- 👯 I’m looking to collaborate on <b> Open Source Projects</b>
-- 💬 Ask me about <b>MERN Stack, C++, or Python</b>
-- 📫 How to reach me: m.haroon.4550@gmail.com
+- I’m currently working on <b>Full Stack Web Development</b>
+- I’m currently learning <b>Python and AI and Advanced Backend Systems</b>
+- I’m looking to collaborate on <b> Open Source Projects</b>
+- Ask me about <b>MERN Stack, C++, or Python</b>
+- How to reach me: m.haroon.4550@gmail.com
 </p>
 
 ### 🛠 Languages and Tools:
