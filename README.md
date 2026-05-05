@@ -30,14 +30,4 @@
 
 ---
 
-### 📊 GitHub Stats:
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mharoon1434&show_icons=true&theme=radical&cache_seconds=1800" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mharoon1434&layout=compact&theme=radical&cache_seconds=1800" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=mharoon1434&theme=radical&cache_seconds=1800" />
-</p>
 
