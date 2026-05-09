@@ -9,7 +9,6 @@
 - I’m currently learning <b>Python and AI and Advanced Backend Systems</b>
 - I’m looking to collaborate on <b> Open Source Projects</b>
 - Ask me about <b>MERN Stack, C++, or Python</b>
-- How to reach me: m.haroon.4550@gmail.com
 </p>
 
 ### Languages and Tools:
@@ -30,4 +29,18 @@
 
 ---
 
+<h2>Contact Me</h2>
 
+<ol>
+  <li>Phone Number:
+    <pre><code>03109336478</code></pre>
+  </li>
+
+  <li>Email Address:
+    <pre><code>m.haroon.4550@gmail.com</code></pre>
+  </li>
+
+  <li>LinkedIn Profile:
+    <pre><code>www.linkedin.com/in/muhammad-haroon10</code></pre>
+  </li>
+</ol>
